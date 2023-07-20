@@ -1,11 +1,11 @@
-About phidl
-===========
+About phidl-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/phidl-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/phidl/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/phidl-feedstock/blob/main/LICENSE.txt)
 
 Summary: PHIDL
 
