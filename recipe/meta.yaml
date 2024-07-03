@@ -1,5 +1,5 @@
 {% set name = "phidl" %}
-{% set version = "1.7.0" %}
+{% set version = "1.7.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/phidl-{{ version }}.tar.gz
-  sha256: bb0f4754e93bec9461c52a1baa70c2b2ea37eef16dc068d44a786ba95841073a
+  sha256: 9cda9fdf52035b11b27ab58e165bd627ebabe8f5f4d1c6764861830c36cf7896
 
 build:
   number: 0
